@@ -4,8 +4,8 @@ function footer_proyect() {
   return (
     <footer>
           <div className="whatsapp">
-              <a href="https://api.whatsapp.com/send?phone=573005445885" target="_blank">
-                <img className="what" src={whatsapp} />
+              <a href="https://api.whatsapp.com/send?phone=573005445885" target="_blank" rel="noreferrer">
+                <img className="what" src={whatsapp} alt="whatsapp"/>
               </a>
           </div>
           <div className="mail" >
