@@ -1,4 +1,5 @@
 import './scss/app.scss';
+import footer_proyect from './component/footer';
 import React from 'react';
 import egocity from './asstes/egocity.png';
 import radical from './asstes/radical.png';
@@ -183,6 +184,9 @@ function App() {
               </div>
             </div>
           </div>
+      </section>
+      <section>
+        {footer_proyect()}
       </section>
     </div>
   );

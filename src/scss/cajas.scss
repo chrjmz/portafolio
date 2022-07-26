@@ -27,7 +27,7 @@
     display: grid;
     background: #fff;
     
-    :hover{
+    > :hover{
         background: #03386a;
         color: #fff !important;
         transition: 0.3s;
