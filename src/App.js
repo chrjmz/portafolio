@@ -4,36 +4,10 @@ import footer_proyect from './component/footer';
 import Empresas from "./component/empresas-json";
 // import Projectos from "./component/projectos";
 import React from 'react';
-import egocity from './asstes/egocity.png';
-import radical from './asstes/radical.png';
-import eco from './asstes/eco.png';
-import rincon from './asstes/rincon-canino.png';
-import worm from './asstes/thewormholewonders.png';
-import emit from './asstes/Emit.png';
-import compra from './asstes/compraorgullo.png'
-import liga from './asstes/ligasida.png'
-import mindo from './asstes/mindo-tucanes.png'
-import fair from './asstes/Fair-play.png'
-import retorica from './asstes/Retorica.png'
-import amara from './asstes/amara.png'
-import tupublicista from './asstes/tupublicista.png'
-import weread from './asstes/wereadenglish.png'
-import cccc from './asstes/cccc.png'
-import transportar from './asstes/transportar.png'
-
-// console.log(Empresas)
-// console.log(typeof Projectos)
-// let aaaaaa;
-// Projectos.then (getValue => {
-//   console.log(getValue);
-//   aaaaaa = getValue
-// })
-// console.log(aaaaaa);
-// console.log(Projectos)
 
 function App() {
   return (
-    <div className="App">
+    <div className="App">d
       <header className="App-header">
         <nav>
             <input type="checkbox" id="check"/>
